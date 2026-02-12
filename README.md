@@ -1,7 +1,7 @@
-<!-- [ Comments ] -->
+<!-- @mikroskato62 -->
 <!-- [ https://github.com/maurodesouza/profile-readme-generator ] -->
 <!-- [ https://github.com/DenverCoder1/readme-typing-svg ] -->
-<!-- [  ] -->
+<!-- -->
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=10&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
@@ -68,25 +68,21 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
 
-###
+&nbsp;
+---
+
+<img src="https://raw.githubusercontent.com/mikroskato62/mikroskato62/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br clear="both">
 <div align="center">
   <img height="10" src="https://github.com/mikroskato62/mikroskato62/blob/main/lrb.gif"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/mikroskato62/mikroskato62/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <picture>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikroskato62/mikroskato62/output/pacman-contribution-graph-dark.svg">
 </picture>
 
-<br clear="both">
-<div align="center">
-  <img height="10" src="https://github.com/mikroskato62/mikroskato62/blob/main/lrb.gif"  />
-</div>
-
-###
+---
 
 <br clear="both">
 
@@ -102,10 +98,8 @@ ___
 
 ###
 
-<br clear="both">
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=10&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-###
+<!-- The End -->
