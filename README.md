@@ -1,3 +1,7 @@
+<!-- [ Comments ] -->
+<!-- [ https://github.com/maurodesouza/profile-readme-generator ] -->
+<!-- [  ] -->
+
 <br clear="both">
 
 <div>
@@ -7,19 +11,11 @@
 ###
 
 <br clear="both">
-
-<p align="center">Hello World!!</p>
-
-###
-
-<br clear="both">
-
 <h2 align="center">@mikroskato62</h2>
 
 ###
 
 <br clear="both">
-
 <div align="center">
   <a href="https://www.solo.to/rapscallion62" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -70,11 +66,21 @@
 
 ###
 
+<br clear="both">
+<div align="center">
+  <img height="10" src="https://github.com/mikroskato62/mikroskato62/blob/main/lrb.gif"  />
+</div>
+
 <img src="https://raw.githubusercontent.com/mikroskato62/mikroskato62/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <picture>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikroskato62/mikroskato62/output/pacman-contribution-graph-dark.svg">
 </picture>
+
+<br clear="both">
+<div align="center">
+  <img height="10" src="https://github.com/mikroskato62/mikroskato62/blob/main/lrb.gif"  />
+</div>
 
 ###
 
@@ -88,14 +94,6 @@
   <img src="https://streak-stats.demolab.com?user=mikroskato62&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikroskato62&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   -->
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="10" src="https://github.com/mikroskato62/mikroskato62/blob/main/lrb.gif"  />
 </div>
 
 ###
