@@ -3,6 +3,8 @@
 <!-- [ https://github.com/DenverCoder1/readme-typing-svg ] -->
 <!-- -->
 
+<a id="top"></a>
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=10&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
@@ -125,6 +127,10 @@ ___
 
 > [!CAUTION]
 > ...
+
+###
+
+<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 
 ###
 
