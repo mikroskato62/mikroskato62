@@ -1,9 +1,9 @@
 name: Generate Metrics
-# 0. Adding the timed event:
+
 on:
   schedule:
-    - cron: "0 0 * * 0" 
-  workflow_dispatch:
+    - cron: "0 0 * * 0" # Runs every Sunday at midnight
+  workflow_dispatch: # Allows manual run
 
 jobs:
   build:
@@ -11,11 +11,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Create a "dist" directory to hold all our files:
+      # 1. Checkout the repository (Essential for some actions to see history)
+      - uses: actions/checkout@v3
+
+      # 2. Create the output folder
       - name: Create dist directory
         run: mkdir -p dist
 
-      # 2. Generate Snake (Save directly to dist):
+      # 3. Generate Snake (Save directly to dist)
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -26,7 +29,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Generate Pacman (Save to root, then we move it):
+      # 4. Generate Pacman (Let it save to default location)
       - name: Generate Pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -34,13 +37,30 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 4. Move Pacman files into the "dist" folder:
+      # 5. DEBUG: List files so we can see what happened
+      - name: List all files (Debug)
+        run: ls -R
+
+      # 6. SAFE MOVE: Move Pacman files only if they exist
       - name: Move Pacman to dist
         run: |
-          mv pacman-contribution-graph.svg dist/
-          mv pacman-contribution-graph-dark.svg dist/ || true
+          # Try to move the light mode file
+          if [ -f "pacman-contribution-graph.svg" ]; then
+            mv pacman-contribution-graph.svg dist/
+            echo "Moved Pacman Light"
+          else
+            echo "WARNING: Pacman Light file not found!"
+          fi
 
-      # 5. Push the ENTIRE "dist" folder to the output branch:
+          # Try to move the dark mode file
+          if [ -f "pacman-contribution-graph-dark.svg" ]; then
+            mv pacman-contribution-graph-dark.svg dist/
+            echo "Moved Pacman Dark"
+          else
+            echo "WARNING: Pacman Dark file not found!"
+          fi
+
+      # 7. Push everything in 'dist' to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
