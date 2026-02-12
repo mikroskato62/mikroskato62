@@ -10,8 +10,7 @@
 
 ###
 
-<br clear="both">
-<h2 align="center">@mikroskato62</h2>
+...
 
 ###
 
