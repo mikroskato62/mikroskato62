@@ -71,11 +71,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/mikroskato62/mikroskato62/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikroskato62/mikroskato62/output/pacman-contribution-graph-dark.svg">
 
-###
-
-<br clear="both">
 <picture>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikroskato62/mikroskato62/output/pacman-contribution-graph-dark.svg">
 </picture>
