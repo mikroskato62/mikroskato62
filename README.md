@@ -107,6 +107,25 @@ ___
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikroskato62&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   -->
 
+&nbsp;
+
+# Important Notices
+
+> [!NOTE]
+> ...
+
+> [!TIP]
+> ...
+
+> [!IMPORTANT]
+> ...
+
+> [!WARNING]
+> ...
+
+> [!CAUTION]
+> ...
+
 ###
 
 <div>
