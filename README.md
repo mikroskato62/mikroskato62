@@ -12,7 +12,7 @@
 <div align="center">
   <kbd>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3390F7&center=true&vCenter=true&width=435&lines=Hello,+World!;Welcome+to+my+GitHub+profile+:);[+@mikroskato62+];.+.+." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3390F7&center=true&height=50&vCenter=true&width=435&lines=Hello,+World!;Welcome+to+my+GitHub+profile+:);[+@mikroskato62+];.+.+." alt="Typing SVG" />
     </a>
   </kbd>
   <br>
@@ -111,7 +111,7 @@ ___
 
 &nbsp;
 
-# Important Notices
+# Notices:
 
 > [!NOTE]
 > ...
@@ -130,9 +130,11 @@ ___
 
 ###
 
-<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
-
-###
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/↑_Back_to_Top-00526F?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</p>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=10&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
