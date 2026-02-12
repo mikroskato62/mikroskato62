@@ -41,6 +41,8 @@ ___
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
@@ -60,8 +62,6 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="15" />
@@ -84,17 +84,19 @@ ___
 
 ---
 
-<br clear="both">
+<!-- GitHub Stats -->
 
+<br clear="both">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikroskato62&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikroskato62&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mikroskato62&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <!-- 
+  <img src="https://github-readme-stats.vercel.app/api?username=mikroskato62&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mikroskato62&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=mikroskato62&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+  <!-- Do not want these but keep this comment please:
   <img src="https://streak-stats.demolab.com?user=mikroskato62&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikroskato62&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   -->
-</div>
 
 ###
 
