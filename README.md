@@ -78,6 +78,8 @@ ___
   <img height="10" src="https://github.com/mikroskato62/mikroskato62/blob/main/lrb.gif"  />
 </div>
 
+&nbsp;
+
 <picture>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mikroskato62/mikroskato62/output/pacman-contribution-graph-dark.svg">
 </picture>
