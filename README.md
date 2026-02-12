@@ -70,8 +70,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/mikroskato62/mikroskato62/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
