@@ -10,9 +10,17 @@
 
 ###
 
-...
+<div align="center">
+  <kbd>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3390F7&center=true&vCenter=true&width=435&lines=Hello,+World!;Welcome+to+my+GitHub+profile+:);[+@mikroskato62+];.+.+." alt="Typing SVG" />
+    </a>
+  </kbd>
+  <br>
+</div>
 
-###
+&nbsp;
+___
 
 <br clear="both">
 <div align="center">
