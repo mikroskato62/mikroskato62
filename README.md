@@ -12,7 +12,7 @@
 
 <a id="top"></a>
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=10&descAlign=50&descAlignY=50&textBg=false&theme=cobalt" alt="[Error] Image Placeholder ..."/>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=99&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=10&descAlign=50&descAlignY=50&textBg=false&color=6E4326"/>
 </div>
 
 <details>
@@ -179,7 +179,7 @@ ___
 </details>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=10&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"/>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=99&section=footer&reversal=true&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=10&descAlign=50&descAlignY=50&textBg=false&color=6E4326"/>
 </div>
 
 <!-- The code below only works outside <divs> like "<details>" ... -->
