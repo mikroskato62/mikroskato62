@@ -1,15 +1,37 @@
-<!-- @mikroskato62 -->
-<!-- [ https://github.com/maurodesouza/profile-readme-generator ] -->
-<!-- [ https://github.com/DenverCoder1/readme-typing-svg ] -->
-<!-- [ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos ] -->
-<!-- [ https://github.com/DenverCoder1/DenverCoder1 ] -->
-<!-- [ https://github.com/AhmedNassar7/AhmedNassar7/tree/main?tab=readme-ov-file#volunteering-experience ] -->
-<!-- [ https://github.com/tandpfun/skill-icons#readme ] -->
-<!-- [ https://profilinator.rishav.dev/ ] -->
-<!-- [ https://github.com/AhmedNassar7/AhmedNassar7/blob/main/README.md ] -->
-<!-- [ https://simpleicons.org/ ] -->
-<!-- [ https://github.com/SamirPaulb/SamirPaulb/tree/main ] --> 
-<!-- [ ? ] -->
+<!--------------------------------------------------------------------------------------------------------------------------|
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█                                                                                                                           █
+█   ████      ███   ███   ██   ██   ██   ██████    ████     ████    ██   ██    ████      ██      ████    █████      █████   █
+█  ██   ███   ██ ███ ██        ██  ██    ██   ██  ██  ██   ██       ██  ██        ██   ██████   ██  ██   ██        ██   ██  █
+█  ██ ██  █   ██  █  ██   ██   █████     ██       ██  ██    ███     █████      █████     ██     ██  ██   ██████       ███   █
+█  ██    ██   ██     ██   ██   ██  ██    ██       ██  ██      ██    ██  ██    ██  ██     ██     ██  ██   ██   ██    ███     █
+█   ██████    ██     ██   ██   ██   ██   ██        ████    ████     ██   ██    █████      ███    ████    █████    ███████   █
+█                                                                                                                           █
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+|--------------------------------------------------------------------------------------------------------------------------> 
+
+<!--- [ Comments ] --->
+<!--- [ You are probably reading this because you want a "readme" file similar to this ... ] --->
+<!--- [ So, if you are planning to copy any of this code, do so but with the following conditions ... ] --->
+<!--- [ #1: If you wish to, please give me credits - @mikroskato62 ] --->
+<!--- [ #2: If you find a solution to the problems on lines "77" or/and "174", please help me fix them too :) ] --->
+<!--- [ #3: If you want help, feel free to contact me or check the "credits links" below for more info ... ] --->
+<!--- [ *ReadMe.md Code: Markdown & HTML & Vercel (& APIs) ] --->
+
+<!--- [ *Credits ] --->
+<!--- [ https://vercel.com/ ] --->
+<!--- [ https://coolsymbol.com/ ] --->
+<!--- [ https://simpleicons.org/ ] --->
+<!--- [ https://profilinator.rishav.dev/ ] --->
+<!--- [ https://github.com/DenverCoder1/DenverCoder1 ] --->
+<!--- [ https://github.com/tandpfun/skill-icons#readme ] --->
+<!--- [ https://github.com/DenverCoder1/readme-typing-svg ] --->
+<!--- [ https://github.com/SamirPaulb/SamirPaulb/tree/main ] --->
+<!--- [ https://github.com/maurodesouza/profile-readme-generator ] --->
+<!--- [ https://github.com/AhmedNassar7/AhmedNassar7/blob/main/README.md ] --->
+<!--- [ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#all-demos ] --->
+<!--- [ https://github.com/AhmedNassar7/AhmedNassar7/tree/main?tab=readme-ov-file#volunteering-experience ] --->
+<!--- [ Thanks! ] --->
 
 <a id="top"></a>
 <div>
@@ -48,8 +70,11 @@ ___
   </a>
 </div>
 
+<div align="center"> «  (UoC) University of Crete  ·  Computer Science Department (CSD)  » </div>
+
 ###
 
+<!-- [ *Comment: For some (unknown) reason, there is (annoying) blue "_" showing after each of the following buttons :( ] -->
 <div align="center">
   <img width="13"/>
   <a href="https://github.com/mikroskato62" target="_blank">
@@ -80,34 +105,20 @@ ___
 ###
   
   <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="[Error]"/>
-    <img width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="[Error]"/>
-    <img width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="[Error]"/>
-    <img width="17"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="[Error]"/>
-    <img width="15"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="[Error]"/>
-    <img width="16"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="[Error]"/>
-    <img width="17"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="[Error]"/>
-    <img width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="[Error]"/>
-    <img width="17"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="[Error]"/>
-    <img width="16"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="[Error]"/>
-    <img width="15"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="[Error]"/>
-    <img width="16"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="[Error]"/>
-    <img width="17"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="[Error]"/>
-    <img width="18"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="[Error]"/>
-    <img width="18"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="[Error]"/> <img width="18"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="[Error]"/> <img width="18"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="[Error]"/> <img width="17"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="[Error]"/> <img width="15"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="[Error]"/> <img width="16"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="[Error]"/> <img width="17"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="[Error]"/> <img width="18"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="[Error]"/> <img width="17"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="[Error]"/> <img width="16"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="[Error]"/> <img width="15"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="[Error]"/> <img width="16"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="[Error]"/> <img width="17"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="[Error]"/> <img width="18"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="[Error]"/> <img width="18"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="[Error]"/>
 
   <a href="https://skillicons.dev">
@@ -152,7 +163,6 @@ ___
 <a id="stats"></a>
 ___
   
-<!-- GitHub Stats -->
   <br clear="both">
   <div align="center">
     <img src="https://github-readme-stats-teal-seven-59.vercel.app/api?username=mikroskato62&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
@@ -161,11 +171,12 @@ ___
     <br><br>
     <img src="https://github-profile-trophy-nine-omega.vercel.app/..." alt="‎ [Error] GitHub Trophies Currently Unavailable ...‎ " height="150"/>
   </div>
-  <!-- Unwanted / Broken ...
+  <!--- [ *Comment: for some (known) reasons, the three images bellow and the one above, dont work most of time (+)... ] --->
+  <!---
   <img src="https://github-profile-trophy-nine-omega.vercel.app/?username=mikroskato62&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
   <img src="https://streak-stats.demolab.com?user=mikroskato62&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikroskato62&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  -->
+  --->
   
   &nbsp;
   ___
@@ -183,23 +194,24 @@ ___
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=99&section=footer&reversal=true&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=10&descAlign=50&descAlignY=50&textBg=false&color=6E4326"/>
 </div>
 
-<!-- The code below only works outside <divs> like "<details>" ... -->
-<!--
-# Notices:
-
-> [!NOTE]
-> ...
-
+<!--- [ Comment: another cool feature (that i have not used) are these things below but only works outside "<divs>" unfortunately (* please make sure to remove "<empty line>" but keep that line empty and replace "<text>" !) ... ] --->
+<!------------
+# Notices :
+<empty line>
 > [!TIP]
-> ...
-
-> [!IMPORTANT]
-> ...
-
-> [!WARNING]
-> ...
-
+> <text>
+<empty line>
+> [!NOTE]
+> <text>
+<empty line>
 > [!CAUTION]
-> ...
--->
-<!-- The End -->
+> <text>
+<empty line>
+> [!WARNING]
+> <text>
+<empty line>
+> [!IMPORTANT]
+> <text>
+------------->
+
+<!----- [ The End ] ----->
