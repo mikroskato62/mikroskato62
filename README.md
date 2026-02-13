@@ -110,7 +110,7 @@ ___
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="[Error]"/>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,html,css,cmake,latex,md,matlab,mysql,nodejs,js,anaconda,matlab"/>
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,html,css,cmake,latex,md,matlab,mysql,nodejs,js,anaconda,ai"/>
   </a>
 </div>
 
