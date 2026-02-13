@@ -7,6 +7,7 @@
 <!-- [ https://github.com/tandpfun/skill-icons#readme ] -->
 <!-- [ https://profilinator.rishav.dev/ ] -->
 <!-- [ https://github.com/AhmedNassar7/AhmedNassar7/blob/main/README.md ] -->
+<!-- [ https://simpleicons.org/ ] -->
 <!-- [ ? ] -->
 
 <a id="top"></a>
@@ -15,13 +16,13 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=10&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-<details>
+<details open>
   <summary><h2><div align="center">💩</div></h2></summary>
   
   <div align="center">
     <kbd>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3390F7&center=true&height=50&vCenter=true&width=435&lines=Hello,+World!;Welcome+to+my+GitHub+profile+:);[+@mikroskato62+];.+.+." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3390F7&center=true&height=50&vCenter=true&width=435&lines=Hello,+World!;Thanks+for+reading+...;Welcome+to+my+GitHub+profile+:);[+@mikroskato62+];.+.+." alt="Typing SVG" />
       </a>
     </kbd>
     <br>
@@ -39,32 +40,34 @@
 ###
 
 <div align="center">
+  <img width="13" />
   <a href="https://github.com/mikroskato62" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"
          alt="github"
          style="margin-bottom: 5px;" />
   </a>
-
-  <a href="https://discord.gg/BEBjZuF5Z3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
-         height="35"
-         alt="discord logo"
-         style="margin-bottom: 5px;" />
-  </a>
-
-  <a href="https://linkedin.com/in/mikroskato62" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="linkedin"
-         style="margin-bottom: 5px;" />
-  </a>
-
   <a href="https://gitlab.com/mikroskato62" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"
          alt="gitlab"
          style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:petrakisraf2@gmail.com?subject=Contact%20from%20Portfolio&body=Hello%2C%0A%0AI%20found%20your%20profile%20and%20wanted%20to%20reach%20out.%0A%0AThanks!"
-   target="_blank">
+  <a href="https://www.pleasewait.co.uk/" target="_blank">
+  <img src="https://img.shields.io/badge/Other-FF8C00?style=for-the-badge&logo=githubsponsors&logoColor=white"
+       alt="question"
+       style="margin-bottom: 5px;" />
+</a>
+  <a href="https://linkedin.com/in/mikroskato62" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=tinder&logoColor=white"
+       alt="linkedin"
+       style="margin-bottom: 5px;" />
+</a>
+    <a href="https://discord.gg/BEBjZuF5Z3" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+         height="35"
+         alt="discord logo"
+         style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:petrakisraf2@gmail.com?subject=...&body=..." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
          height="35"
          alt="gmail logo"
@@ -119,14 +122,23 @@
 
   ---
   
-  <details open> 
-    <summary><h3>📚 My Top Open Source Projects ...</h3></summary>
-    <p align="left">
-     ---------- ??? ----------
-    </p>
-    <a href="https://github.com/mikroskato62?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="[Error] All Repositories ..." title="All Repositories." src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos%20...-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-    <br><br>
-  </details>
+<details open> 
+<summary><h3>📚 My Top Projects ...</h3></summary>
+
+| ✏️ Name | 📝 Description | ⚙️ Langs/Tools | 🗝️ State | 🔗 Link | 👤 Devs | ⭐ Project |
+| --- | --- | --- | --- | :---: | :---: | --- |
+| ReadMe.md | This Repo ... | * Markdown & HTML | Public | [★](https://github.com/mikroskato62/mikroskato62) | 1* | Personal |
+| Rafish! | Chess Bot ... | Python * | Coming Soon | ☆ | 1 | Personal |
+| MC-FE | Minecraft Editor ... | Python * | Coming Soon | ☆ | 1 | Personal |
+| CTDLW | Android App ... | Java * | Coming Soon | ☆ | 1 | Personal |
+| Amphipolis | (PC) Game ... | Java (MVC) | Private | ✩ | 3 | Academic |
+| <div align="center">?</div> | <div align="center">?</div> | <div align="center">?</div> | <div align="center">?</div> | ? | ? | <div align="center">?</div> |
+
+<a href="https://github.com/mikroskato62?tab=repositories&q=&type=&language=&sort=stargazers">
+  <img alt="All Repositories" title="All Repositories." src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos%20...-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/>
+</a>
+<br><br>
+</details>
   
   ---
   
@@ -155,7 +167,7 @@
     <br><br>
     <img 
     src="https://github-profile-trophy-nine-omega.vercel.app/..." 
-    alt="‎ [Error] Trophies currently unavailable ...‎ " 
+    alt="‎ [Error] GitHub trophies currently unavailable ...‎ " 
     height="150" 
   />
   </div>
