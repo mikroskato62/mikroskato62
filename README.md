@@ -8,6 +8,7 @@
 <!-- [ https://profilinator.rishav.dev/ ] -->
 <!-- [ https://github.com/AhmedNassar7/AhmedNassar7/blob/main/README.md ] -->
 <!-- [ https://simpleicons.org/ ] -->
+<!-- [ https://github.com/SamirPaulb/SamirPaulb/tree/main ] --> 
 <!-- [ ? ] -->
 
 <a id="top"></a>
@@ -142,7 +143,7 @@ ___
   
   <br clear="both">
   
-  <div align="center"> <img height="10" src="https://github.com/mikroskato62/mikroskato62/blob/main/lrb.gif" alt="‎ [Error]‎ " /> </div>
+  <div align="center"> <img height="10" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="‎ [ERROR]‎ " /> </div>
   
   &nbsp;
   
