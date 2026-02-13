@@ -127,10 +127,10 @@
 
 | ✏️ Name | 📁 Description | ⚙️ Langs/Tools | 🗝️ State | 🔗 Link | 👤 Devs | ⭐ Project |
 | --- | --- | --- | --- | :---: | :---: | --- |
-| ReadMe.md | This Repo ... | Markdown & HTML | Public | [★](https://github.com/mikroskato62/mikroskato62) | 1* | Personal |
-| Rafish! | Chess Bot ... | Python * | Coming Soon | ☆ | 1 | Personal* |
-| MC-FE | Minecraft Editor ... | Python * | Coming Soon | ☆ | 1 | Personal |
-| CTDLW | Android App ... | Java * | Coming Soon | ☆ | 1 | Personal* |
+| ReadMe.md | This Repo ... | MD/HTML/Vercel | Public | [★](https://github.com/mikroskato62/mikroskato62) | 1* | Personal |
+| Rafish! | Chess Bot ... | Python & More* | Coming Soon | ☆ | 1 | Personal* |
+| MC-FE | Minecraft Editor ... | Python & More* | Coming Soon | ☆ | 1 | Personal |
+| CTDLW | Android App ... | Java & APIs | Coming Soon | ☆ | 1 | Personal* |
 | Amphipolis | (PC) Game ... | Java (MVC) | Private | ✩ | 3 | Academic |
 | <div align="center">[ ··· ]</div> | <div align="center">[ ··· ]</div> | <div align="center">[ ··· ]</div> | <div align="center">[ ··· ]</div> | [ ··· ] | [ ··· ] | <div align="center">[ ··· ]</div> |
 
