@@ -27,9 +27,21 @@
     </kbd>
     <br>
   </div>
+
+###
+
+<div align="center">
+    <a href="#socials"><kbd> <br> Socials <br> </kbd></a>
+    <a href="#tech-stack"><kbd> <br> Tech Stack <br> </kbd></a>
+    <a href="#projects"><kbd> <br> Projects <br> </kbd></a>
+    <a href="#animations"><kbd> <br> Animations <br> </kbd></a>
+    <a href="#stats"><kbd> <br> Stats <br> </kbd></a>
+  </div>
   
   &nbsp;
   ___
+
+<a id="socials"></a>
 
 <div align="center">
   <a href="https://github.com/mikroskato62" title="GitHub Profile: @mikroskato62">
@@ -83,6 +95,8 @@
 </div>
 
   ###
+
+<a id="tech-stack"></a>
   
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
@@ -121,7 +135,8 @@
   </div>
 
   ---
-  
+
+  <a id="projects"></a>
 <details open> 
 <summary><h3>📚 My Top Projects ...</h3></summary>
 
@@ -141,7 +156,8 @@
 </details>
   
   ---
-  
+<a id="animations"></a>
+
   <img alt="‎ [Error] Snake animation ...‎ " src="https://raw.githubusercontent.com/mikroskato62/mikroskato62/output/github-contribution-grid-snake-dark.svg" />
   
   <br clear="both">
@@ -158,8 +174,9 @@
   ---
   
   <!-- GitHub Stats -->
-  
+  <a id="stats"></a>
   <br clear="both">
+  
   <div align="center">
     <img src="https://github-readme-stats-teal-seven-59.vercel.app/api?username=mikroskato62&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
     <img width="25" />
