@@ -44,7 +44,7 @@ ___
 
 <div align="center">
   <a href="https://github.com/mikroskato62" title="[ GitHub Profile: @mikroskato62 ]">
-    <img src="https://avatars.githubusercontent.com/u/203899428?s=62&v=4"/>
+    <img src="https://avatars.githubusercontent.com/u/203899428?s=75&v=4"/>
   </a>
 </div>
 
