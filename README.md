@@ -14,7 +14,7 @@
 <!--- [ You are probably reading this because you want a "readme" file similar to this ... ] --->
 <!--- [ So, if you are planning to copy any of this code, do so but with the following conditions ... ] --->
 <!--- [ #1: If you wish to, please give me credits - @mikroskato62 ] --->
-<!--- [ #2: If you find a solution to the problems on lines "77" or/and "178", please help me fix them too :) ] --->
+<!--- [ #2: If you find a solution to the problems on lines "78" or/and "179", please help me fix them too :) ] --->
 <!--- [ #3: If you want help, feel free to contact me or check the "credits links" below for more info ... ] --->
 <!--- [ *ReadMe.md Code: Markdown & HTML & Vercel (& APIs) ] --->
 
@@ -38,6 +38,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=99&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=10&descAlign=50&descAlignY=50&textBg=false&color=6E4326"/>
 </div>
 
+<!--- [ *Comment: This is the main dropdown menu - this hardcoded value only works perfectly at the main github profile readme viewer and not on the repo (also scale does not matter a lot) - i guess its ok for now ... ] --->
 <details>
    <summary><h2><div align="center">ㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤ💩ㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ◂</div></h2></summary>
   
@@ -218,4 +219,4 @@ ___
 > <text>
 ------------->
 
-<!----- [ The End ] ----->
+<!---------- [ The End ] ---------->
