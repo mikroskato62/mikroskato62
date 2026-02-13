@@ -14,7 +14,7 @@
 <!--- [ You are probably reading this because you want a "readme" file similar to this ... ] --->
 <!--- [ So, if you are planning to copy any of this code, do so but with the following conditions ... ] --->
 <!--- [ #1: If you wish to, please give me credits - @mikroskato62 ] --->
-<!--- [ #2: If you find a solution to the problems on lines "77" or/and "174", please help me fix them too :) ] --->
+<!--- [ #2: If you find a solution to the problems on lines "77" or/and "178", please help me fix them too :) ] --->
 <!--- [ #3: If you want help, feel free to contact me or check the "credits links" below for more info ... ] --->
 <!--- [ *ReadMe.md Code: Markdown & HTML & Vercel (& APIs) ] --->
 
@@ -39,7 +39,7 @@
 </div>
 
 <details>
-   <summary><h2><div align="center">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💩ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤ ◂</div></h2></summary>
+   <summary><h2><div align="center">ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ💩ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ◂</div></h2></summary>
   
   <div align="center">
     <kbd>
@@ -129,6 +129,7 @@ ___
 <a id="projects"></a>
 ___
 
+<div align="center">
 <details open> 
 <summary><h3>📚 My Top Projects ...</h3></summary>
 
@@ -146,6 +147,7 @@ ___
 </a>
 <br><br>
 </details>
+</div>
 
 <a id="animations"></a>
 ___
@@ -153,6 +155,8 @@ ___
   <img alt="‎ [Error] Snake animation ...‎ " src="https://raw.githubusercontent.com/mikroskato62/mikroskato62/output/github-contribution-grid-snake-dark.svg" />
   
   <br clear="both">
+
+  ###
   
   <div align="center"> <img height="10" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="‎ [ERROR]‎ " /> </div>
   
