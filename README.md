@@ -16,7 +16,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=10&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
-<details open>
+<details>
   <summary><h2><div align="center">💩</div></h2></summary>
   
   <div align="center">
@@ -125,14 +125,14 @@
 <details open> 
 <summary><h3>📚 My Top Projects ...</h3></summary>
 
-| ✏️ Name | 📝 Description | ⚙️ Langs/Tools | 🗝️ State | 🔗 Link | 👤 Devs | ⭐ Project |
+| ✏️ Name | 📁 Description | ⚙️ Langs/Tools | 🗝️ State | 🔗 Link | 👤 Devs | ⭐ Project |
 | --- | --- | --- | --- | :---: | :---: | --- |
-| ReadMe.md | This Repo ... | * Markdown & HTML | Public | [★](https://github.com/mikroskato62/mikroskato62) | 1* | Personal |
-| Rafish! | Chess Bot ... | Python * | Coming Soon | ☆ | 1 | Personal |
+| ReadMe.md | This Repo ... | Markdown & HTML | Public | [★](https://github.com/mikroskato62/mikroskato62) | 1* | Personal |
+| Rafish! | Chess Bot ... | Python * | Coming Soon | ☆ | 1 | Personal* |
 | MC-FE | Minecraft Editor ... | Python * | Coming Soon | ☆ | 1 | Personal |
-| CTDLW | Android App ... | Java * | Coming Soon | ☆ | 1 | Personal |
+| CTDLW | Android App ... | Java * | Coming Soon | ☆ | 1 | Personal* |
 | Amphipolis | (PC) Game ... | Java (MVC) | Private | ✩ | 3 | Academic |
-| <div align="center">?</div> | <div align="center">?</div> | <div align="center">?</div> | <div align="center">?</div> | ? | ? | <div align="center">?</div> |
+| <div align="center">[ ··· ]</div> | <div align="center">[ ··· ]</div> | <div align="center">[ ··· ]</div> | <div align="center">[ ··· ]</div> | [ ··· ] | [ ··· ] | <div align="center">[ ··· ]</div> |
 
 <a href="https://github.com/mikroskato62?tab=repositories&q=&type=&language=&sort=stargazers">
   <img alt="All Repositories" title="All Repositories." src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos%20...-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/>
@@ -167,7 +167,7 @@
     <br><br>
     <img 
     src="https://github-profile-trophy-nine-omega.vercel.app/..." 
-    alt="‎ [Error] GitHub trophies currently unavailable ...‎ " 
+    alt="‎ [Error] GitHub Trophies Currently Unavailable ...‎ " 
     height="150" 
   />
   </div>
