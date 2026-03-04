@@ -1,24 +1,17 @@
 name: Generate Metrics
-
 on:
   schedule:
-    - cron: "0 0 * * 0" # Runs every Sunday at midnight
-  workflow_dispatch: # Allows manual run
-
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      # 1. Checkout the repository (Essential for some actions to see history)
-      - uses: actions/checkout@v3
-
-      # 2. Create the output folder
+      - uses: actions/checkout@v4
       - name: Create dist directory
         run: mkdir -p dist
-
-      # 3. Generate Snake (Save directly to dist)
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -28,41 +21,30 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 4. Generate Pacman (Let it save to default location)
       - name: Generate Pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 5. DEBUG: List files so we can see what happened
       - name: List all files (Debug)
         run: ls -R
-
-      # 6. SAFE MOVE: Move Pacman files only if they exist
       - name: Move Pacman to dist
         run: |
-          # Try to move the light mode file
           if [ -f "pacman-contribution-graph.svg" ]; then
             mv pacman-contribution-graph.svg dist/
-            echo "Moved Pacman Light"
+            echo "OK: Moved Pacman Light."
           else
             echo "WARNING: Pacman Light file not found!"
           fi
-
-          # Try to move the dark mode file
           if [ -f "pacman-contribution-graph-dark.svg" ]; then
             mv pacman-contribution-graph-dark.svg dist/
-            echo "Moved Pacman Dark"
+            echo "OK: Moved Pacman Dark."
           else
             echo "WARNING: Pacman Dark file not found!"
           fi
-
-      # 7. Push everything in 'dist' to the output branch
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
