@@ -1,0 +1,52 @@
+name: Generate Metrics
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create dist directory
+        run: mkdir -p dist
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: List all files (Debug)
+        run: ls -R
+      - name: Move Pacman to dist
+        run: |
+          if [ -f "pacman-contribution-graph.svg" ]; then
+            mv pacman-contribution-graph.svg dist/
+            echo "OK: Moved Pacman Light."
+          else
+            echo "WARNING: Pacman Light file not found!"
+          fi
+          if [ -f "pacman-contribution-graph-dark.svg" ]; then
+            mv pacman-contribution-graph-dark.svg dist/
+            echo "OK: Moved Pacman Dark."
+          else
+            echo "WARNING: Pacman Dark file not found!"
+          fi
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
